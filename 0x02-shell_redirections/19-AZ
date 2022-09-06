@@ -1,2 +1,2 @@
 #!/bin/bash
-grtr \Ac' 'Ze''
+tr "A" "Z" | tr "c" "e"
